@@ -1,9 +1,4 @@
-//
-//  Tesk_ExplorerUITests.swift
-//  Tesk-ExplorerUITests
-//
-//  Created by Aji Prakosa on 15/05/26.
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import XCTest
 

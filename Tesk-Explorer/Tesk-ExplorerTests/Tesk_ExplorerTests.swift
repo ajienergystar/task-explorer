@@ -1,9 +1,4 @@
-//
-//  Tesk_ExplorerTests.swift
-//  Tesk-ExplorerTests
-//
-//  Created by Aji Prakosa on 15/05/26.
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import Testing
 
