@@ -1,7 +1,4 @@
-//
-//  TaskExplorerComposition.swift
-//  Lightweight composition root similar to Factory / DI graphs in modular apps (BankDKI-style wiring without third-party IoC).
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import Foundation
 

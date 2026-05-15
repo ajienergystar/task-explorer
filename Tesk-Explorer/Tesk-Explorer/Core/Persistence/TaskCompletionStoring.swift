@@ -1,7 +1,4 @@
-//
-//  TaskCompletionStoring.swift
-//  Local persistence for toggled completion (UserDefaults-backed; API has no PATCH in this assignment).
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import Foundation
 
@@ -11,7 +8,6 @@ protocol TaskCompletionStoring: Sendable {
     func setPersistedCompletion(_ completed: Bool, forTaskId id: Int)
 }
 
-/// Thread-safe `UserDefaults` bridge so callers can integrate from Swift concurrency contexts without coupling to `MainActor`.
 final class UserDefaultsTaskCompletionStore: TaskCompletionStoring, @unchecked Sendable {
     private enum Keys {
         static let completions = "taskExplorer.completionOverrides"

@@ -1,7 +1,4 @@
-//
-//  TaskExplorerUnitTests.swift
-//  Unit coverage for networking (mock HTTP) and presentation logic (mock repository).
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 @testable import Tesk_Explorer
 import Testing

@@ -1,7 +1,4 @@
-//
-//  HTTPClienting.swift
-//  Narrow abstraction over URLSession so requests can be mocked in unit tests (BankDKI-style protocol boundary).
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import Foundation
 

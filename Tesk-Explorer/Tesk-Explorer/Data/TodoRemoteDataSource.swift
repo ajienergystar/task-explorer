@@ -1,7 +1,4 @@
-//
-//  TodoRemoteDataSource.swift
-//  Responsible only for retrieving and decoding todos from JSONPlaceholder.
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import Foundation
 

@@ -1,6 +1,4 @@
-//
-//  TaskListViewModel.swift
-//
+// © 2026 Created by Aji Prakosa. All rights reserved.
 
 import Foundation
 
