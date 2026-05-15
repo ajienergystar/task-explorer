@@ -12,37 +12,37 @@
 			containerPortal = A84E3CEA2FB6ADA90095C638 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = A84E3CF12FB6ADA90095C638;
-			remoteInfo = "Tesk-Explorer";
+			remoteInfo = "Task-Explorer";
 		};
 		A84E3D0E2FB6ADAD0095C638 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = A84E3CEA2FB6ADA90095C638 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = A84E3CF12FB6ADA90095C638;
-			remoteInfo = "Tesk-Explorer";
+			remoteInfo = "Task-Explorer";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A84E3CF22FB6ADA90095C638 /* Tesk-Explorer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tesk-Explorer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A84E3D032FB6ADAD0095C638 /* Tesk-ExplorerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tesk-ExplorerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A84E3D0D2FB6ADAD0095C638 /* Tesk-ExplorerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tesk-ExplorerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A84E3CF22FB6ADA90095C638 /* Task-Explorer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Task-Explorer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A84E3D032FB6ADAD0095C638 /* Task-ExplorerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Task-ExplorerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A84E3D0D2FB6ADAD0095C638 /* Task-ExplorerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Task-ExplorerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A84E3CF42FB6ADA90095C638 /* Tesk-Explorer */ = {
+		A84E3CF42FB6ADA90095C638 /* Task-Explorer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Tesk-Explorer";
+			path = "Task-Explorer";
 			sourceTree = "<group>";
 		};
-		A84E3D062FB6ADAD0095C638 /* Tesk-ExplorerTests */ = {
+		A84E3D062FB6ADAD0095C638 /* Task-ExplorerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Tesk-ExplorerTests";
+			path = "Task-ExplorerTests";
 			sourceTree = "<group>";
 		};
-		A84E3D102FB6ADAD0095C638 /* Tesk-ExplorerUITests */ = {
+		A84E3D102FB6ADAD0095C638 /* Task-ExplorerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Tesk-ExplorerUITests";
+			path = "Task-ExplorerUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		A84E3CE92FB6ADA90095C638 = {
 			isa = PBXGroup;
 			children = (
-				A84E3CF42FB6ADA90095C638 /* Tesk-Explorer */,
-				A84E3D062FB6ADAD0095C638 /* Tesk-ExplorerTests */,
-				A84E3D102FB6ADAD0095C638 /* Tesk-ExplorerUITests */,
+				A84E3CF42FB6ADA90095C638 /* Task-Explorer */,
+				A84E3D062FB6ADAD0095C638 /* Task-ExplorerTests */,
+				A84E3D102FB6ADAD0095C638 /* Task-ExplorerUITests */,
 				A84E3CF32FB6ADA90095C638 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 		A84E3CF32FB6ADA90095C638 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A84E3CF22FB6ADA90095C638 /* Tesk-Explorer.app */,
-				A84E3D032FB6ADAD0095C638 /* Tesk-ExplorerTests.xctest */,
-				A84E3D0D2FB6ADAD0095C638 /* Tesk-ExplorerUITests.xctest */,
+				A84E3CF22FB6ADA90095C638 /* Task-Explorer.app */,
+				A84E3D032FB6ADAD0095C638 /* Task-ExplorerTests.xctest */,
+				A84E3D0D2FB6ADAD0095C638 /* Task-ExplorerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A84E3CF12FB6ADA90095C638 /* Tesk-Explorer */ = {
+		A84E3CF12FB6ADA90095C638 /* Task-Explorer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A84E3D172FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Tesk-Explorer" */;
+			buildConfigurationList = A84E3D172FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Task-Explorer" */;
 			buildPhases = (
 				A84E3CEE2FB6ADA90095C638 /* Sources */,
 				A84E3CEF2FB6ADA90095C638 /* Frameworks */,
@@ -108,18 +108,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A84E3CF42FB6ADA90095C638 /* Tesk-Explorer */,
+				A84E3CF42FB6ADA90095C638 /* Task-Explorer */,
 			);
-			name = "Tesk-Explorer";
+			name = "Task-Explorer";
 			packageProductDependencies = (
 			);
-			productName = "Tesk-Explorer";
-			productReference = A84E3CF22FB6ADA90095C638 /* Tesk-Explorer.app */;
+			productName = "Task-Explorer";
+			productReference = A84E3CF22FB6ADA90095C638 /* Task-Explorer.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A84E3D022FB6ADAD0095C638 /* Tesk-ExplorerTests */ = {
+		A84E3D022FB6ADAD0095C638 /* Task-ExplorerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A84E3D1A2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Tesk-ExplorerTests" */;
+			buildConfigurationList = A84E3D1A2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Task-ExplorerTests" */;
 			buildPhases = (
 				A84E3CFF2FB6ADAD0095C638 /* Sources */,
 				A84E3D002FB6ADAD0095C638 /* Frameworks */,
@@ -131,18 +131,18 @@
 				A84E3D052FB6ADAD0095C638 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A84E3D062FB6ADAD0095C638 /* Tesk-ExplorerTests */,
+				A84E3D062FB6ADAD0095C638 /* Task-ExplorerTests */,
 			);
-			name = "Tesk-ExplorerTests";
+			name = "Task-ExplorerTests";
 			packageProductDependencies = (
 			);
-			productName = "Tesk-ExplorerTests";
-			productReference = A84E3D032FB6ADAD0095C638 /* Tesk-ExplorerTests.xctest */;
+			productName = "Task-ExplorerTests";
+			productReference = A84E3D032FB6ADAD0095C638 /* Task-ExplorerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A84E3D0C2FB6ADAD0095C638 /* Tesk-ExplorerUITests */ = {
+		A84E3D0C2FB6ADAD0095C638 /* Task-ExplorerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A84E3D1D2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Tesk-ExplorerUITests" */;
+			buildConfigurationList = A84E3D1D2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Task-ExplorerUITests" */;
 			buildPhases = (
 				A84E3D092FB6ADAD0095C638 /* Sources */,
 				A84E3D0A2FB6ADAD0095C638 /* Frameworks */,
@@ -154,13 +154,13 @@
 				A84E3D0F2FB6ADAD0095C638 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A84E3D102FB6ADAD0095C638 /* Tesk-ExplorerUITests */,
+				A84E3D102FB6ADAD0095C638 /* Task-ExplorerUITests */,
 			);
-			name = "Tesk-ExplorerUITests";
+			name = "Task-ExplorerUITests";
 			packageProductDependencies = (
 			);
-			productName = "Tesk-ExplorerUITests";
-			productReference = A84E3D0D2FB6ADAD0095C638 /* Tesk-ExplorerUITests.xctest */;
+			productName = "Task-ExplorerUITests";
+			productReference = A84E3D0D2FB6ADAD0095C638 /* Task-ExplorerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A84E3CED2FB6ADA90095C638 /* Build configuration list for PBXProject "Tesk-Explorer" */;
+			buildConfigurationList = A84E3CED2FB6ADA90095C638 /* Build configuration list for PBXProject "Task-Explorer" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A84E3CF12FB6ADA90095C638 /* Tesk-Explorer */,
-				A84E3D022FB6ADAD0095C638 /* Tesk-ExplorerTests */,
-				A84E3D0C2FB6ADAD0095C638 /* Tesk-ExplorerUITests */,
+				A84E3CF12FB6ADA90095C638 /* Task-Explorer */,
+				A84E3D022FB6ADAD0095C638 /* Task-ExplorerTests */,
+				A84E3D0C2FB6ADAD0095C638 /* Task-ExplorerUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		A84E3D052FB6ADAD0095C638 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A84E3CF12FB6ADA90095C638 /* Tesk-Explorer */;
+			target = A84E3CF12FB6ADA90095C638 /* Task-Explorer */;
 			targetProxy = A84E3D042FB6ADAD0095C638 /* PBXContainerItemProxy */;
 		};
 		A84E3D0F2FB6ADAD0095C638 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A84E3CF12FB6ADA90095C638 /* Tesk-Explorer */;
+			target = A84E3CF12FB6ADA90095C638 /* Task-Explorer */;
 			targetProxy = A84E3D0E2FB6ADAD0095C638 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -388,10 +388,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "Tesk-Explorer/Tesk_Explorer.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Task-Explorer/Task_Explorer.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Tesk-Explorer/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Task-Explorer/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -407,7 +407,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Tesk-Explorer";
+				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Task-Explorer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -422,10 +422,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "Tesk-Explorer/Tesk_Explorer.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Task-Explorer/Task_Explorer.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Tesk-Explorer/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Task-Explorer/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -441,7 +441,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Tesk-Explorer";
+				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Task-Explorer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -460,14 +460,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Tesk-ExplorerTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Task-ExplorerTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tesk-Explorer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Tesk-Explorer";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Task-Explorer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Task-Explorer";
 			};
 			name = Debug;
 		};
@@ -480,14 +480,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Tesk-ExplorerTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Task-ExplorerTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tesk-Explorer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Tesk-Explorer";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Task-Explorer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Task-Explorer";
 			};
 			name = Release;
 		};
@@ -499,14 +499,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Tesk-ExplorerUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Task-ExplorerUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Tesk-Explorer";
+				TEST_TARGET_NAME = "Task-Explorer";
 			};
 			name = Debug;
 		};
@@ -518,21 +518,21 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Tesk-ExplorerUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Owner.Task-ExplorerUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Tesk-Explorer";
+				TEST_TARGET_NAME = "Task-Explorer";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A84E3CED2FB6ADA90095C638 /* Build configuration list for PBXProject "Tesk-Explorer" */ = {
+		A84E3CED2FB6ADA90095C638 /* Build configuration list for PBXProject "Task-Explorer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A84E3D152FB6ADAD0095C638 /* Debug */,
@@ -541,7 +541,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A84E3D172FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Tesk-Explorer" */ = {
+		A84E3D172FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Task-Explorer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A84E3D182FB6ADAD0095C638 /* Debug */,
@@ -550,7 +550,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A84E3D1A2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Tesk-ExplorerTests" */ = {
+		A84E3D1A2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Task-ExplorerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A84E3D1B2FB6ADAD0095C638 /* Debug */,
@@ -559,7 +559,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A84E3D1D2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Tesk-ExplorerUITests" */ = {
+		A84E3D1D2FB6ADAD0095C638 /* Build configuration list for PBXNativeTarget "Task-ExplorerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A84E3D1E2FB6ADAD0095C638 /* Debug */,

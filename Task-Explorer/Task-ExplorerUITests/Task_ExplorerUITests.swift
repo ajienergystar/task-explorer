@@ -2,7 +2,7 @@
 
 import XCTest
 
-final class Tesk_ExplorerUITests: XCTestCase {
+final class Task_ExplorerUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

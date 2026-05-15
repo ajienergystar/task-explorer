@@ -4,8 +4,8 @@ Take-home submission: SwiftUI application that pulls todos from [`jsonplaceholde
 
 ### Setup
 
-- Open `Tesk-Explorer.xcodeproj` in Xcode 16+.  
-- Scheme: **Tesk-Explorer**, destination: **iPhone simulator**.  
+- Open `Task-Explorer.xcodeproj` in Xcode 16+.  
+- Scheme: **Task-Explorer**, destination: **iPhone simulator**.  
 - Requires network access on first fetch (JSONPlaceholder HTTPS).
 
 ### Architecture
@@ -23,7 +23,7 @@ Unit tests (`TaskExplorerUnitTests`) exercise mocked HTTP decoding/errors and mo
 
 - JSONPlaceholder ignores mutations; UX copy clarifies offline-only edits.  
 - Full reload on pull-to-refresh / toolbar reload is acceptable for demo scale (~200 todos). Pagination could slide in behind the same repository boundary.  
-- Product name typo `Tesk-Explorer` is kept to avoid churn on bundle identifiers tied to the existing Xcode target.  
+- Bundle identifiers use the `Owner.Task-Explorer` prefix to match the Xcode targets.  
 - Targets are **iOS only** (iPhone / iPad / simulator); macOS & visionOS were removed from Xcode supported platforms.
 
 ### AI Usage Report

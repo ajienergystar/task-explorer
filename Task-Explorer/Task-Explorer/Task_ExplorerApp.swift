@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct Tesk_ExplorerApp: App {
+struct Task_ExplorerApp: App {
     @StateObject private var rootEnvironment = RootEnvironmentBootstrap()
 
     var body: some Scene {
